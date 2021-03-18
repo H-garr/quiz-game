@@ -68,8 +68,8 @@ function nextquestion() {
 
 function verifyanswer(event) {
     if (event.target.textContent !== gamequestions[index].answer) {
-        timeofuser -= 3;
-        // if they get the answer wrong here.
+        timeofuser -= 8;
+        // if they get the answer wrong here they lose points.
     }
     if (++index < gamequestions.length) {
         nextquestion();
