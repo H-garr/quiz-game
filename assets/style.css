@@ -1,3 +1,6 @@
 body {
     background-color: dimgrey;
+    font-size: large;
+    font-family: cursive;
+    flex-direction: initial;
 }
