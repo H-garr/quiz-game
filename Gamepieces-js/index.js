@@ -140,6 +140,7 @@ function displaybestplayers() {
 
     const replay = document.createElement("button");
     replay.textContent = "Care to try again?";
+    // taunts the user into playing again
     replay.addEventListener("click", startgame);
     answersele.append(replay);
 }

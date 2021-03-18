@@ -9,18 +9,15 @@
 
 The user should :
 
-  * NPM I to install npm packages
+  * Open in browser via VS code and enjoy!
 
-  * then run the command 'npm run watch'.
-
-  * Heroku deployment can also be checked out  <a href="https://burger-app-bcs-hayden.herokuapp.com/">here</a>
   
 
 ## Github repo and deployment link:
 
 
-<a href="https://github.com/H-garr/burgercreator">Repo</a>
-<a href=" https://h-garr.github.io/burgercreator/">Deployment Link</a>
+<a href="https://github.com/H-garr/quiz-game">Repo</a>
+<a href="https://h-garr.github.io/quiz-game/">Deployment Link</a>
 
 ## Questions and Concerns:
 Contact me at :
@@ -30,6 +27,6 @@ Contact me at :
 
 ![Pic of Working Site](./assets/pic-of-working-site.png)
 
-<a href="https://drive.google.com/file/d/16zZVzlK-vnoeY-mTmT0Hvi98p41jbxo-/view">Video Here</a>
+<a href="https://drive.google.com/file/d/1dswlFq0l8ux-V1y5eHCtm-i8s89-QNG0/view">Video Here</a>
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
