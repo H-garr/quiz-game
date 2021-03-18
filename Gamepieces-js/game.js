@@ -1,4 +1,4 @@
-const quizquestions= [{
+const gamequestions= [{
 
       question: "What was the best selling video game of all time?",
       choices: 
